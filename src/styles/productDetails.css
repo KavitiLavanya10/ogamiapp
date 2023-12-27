@@ -1,0 +1,233 @@
+.productsdivision{
+    display: flex;
+    justify-content: center;
+    align-items:start;
+
+    gap: 3rem;
+    margin-top: 2rem;
+}
+.productsimggg{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.imggdivv1{
+    width: 25rem;
+    height: 25rem;
+    border: 1px solid rgb(179, 176, 176);
+    padding: 2rem;  
+}
+.imgg1{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.productsimgdiv{
+    width: 7rem;
+    height: 7rem;
+    border: 1px solid rgb(179, 176, 176);
+    padding: 2rem;
+}
+.lorem{
+    width: 30rem;
+    display: flex;
+    justify-content: top;
+    align-items: start;
+    font-size: 1.05rem;
+    font-weight: 500;
+    word-spacing: 0.1rem;
+    color: rgb(75, 75, 75);
+    border-bottom: 1px solid grey;
+    padding-bottom: 2rem;
+    
+}
+.linked{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.linkeddiv{
+    border-right:1px solid grey ;
+    padding:0 2rem;
+}
+.linkeddiv3{
+    padding:0 2rem;
+}
+.spaandiv{
+    color: rgb(107, 107, 107);
+}
+.loremdiv{
+    display: flex;
+    justify-content: flex-start;
+    align-items:start;
+    flex-direction: column;
+}
+.categorydiv{
+    color: rgb(82, 185, 82);
+    font-size:small;
+    text-transform: uppercase;
+}
+.namediv{
+    font-size: 1.8rem;
+}
+.pricee{
+    font-size: 2rem;
+    color: rgb(88, 188, 88);
+}
+.pricediv{
+    height:25rem ;
+    display: flex;
+    justify-content: flex-start;
+    align-items:start;
+    border-left: 1px solid rgb(212, 210, 210);
+    padding-left: 2rem;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.btn11{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-size:0.7rem;
+    color: rgb(60, 145, 60);
+    border-radius:2rem;
+    padding: 0.5rem 4rem;
+    background-color: white;
+    border: none;
+    outline: none;
+    font-weight: 900;
+    border: 2px solid rgb(16, 122, 16);
+    margin-bottom: 1rem;
+}
+.btn11:hover{
+  
+    background-color:  rgb(79, 177, 60);
+    border: none;
+    outline: none;
+    font-weight: 900;
+    color: white;
+   
+}
+.btn22{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-size:0.7rem;
+    color: rgb(60, 145, 60);
+    border-radius:2rem;
+    padding: 0.7rem 3rem;
+    background-color:  rgb(79, 177, 60);
+    border: none;
+    outline: none;
+    font-weight: 900;
+    color: white; 
+}
+
+.productimggdivv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+}
+
+.pd-gray-price{
+    color: grey;
+    text-decoration: line-through;
+    font-size: 1.3rem;
+}
+.pd-green-price{
+    font-size: 2rem;
+    color: green;
+    font-weight: bold;
+}
+.tabdivv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.2rem;
+}
+.tabpara{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(230, 230, 251);
+    background-color: rgb(230, 230, 251);
+    font-weight: 600;
+    text-transform: uppercase;
+    padding:0.8rem 6rem;
+  
+}
+.tabpara:hover{
+    background-color: rgb(110, 192, 110);
+    color: white;
+}
+.descdiv{
+    border: 1px solid rgb(225, 225, 247);
+    padding: 2rem;
+    display: flex;
+    justify-content:center;
+    /* margin-left: 25rem; */
+    align-items:start;
+    /* width:50rem; */
+}
+.pd_quantities{
+    font-weight: bold;
+}
+.pd_table,.pd_quantities,.pb_td{
+    border: 1px solid rgb(215, 215, 244);
+    border-collapse: collapse;
+}
+.pb_td,.pd_quantities{
+    width:40rem;
+    height: 3rem;
+    
+}
+.reviewcontainer{
+    display: flex;
+    justify-content: center;
+    align-items:start;
+    gap: 3rem;
+    margin-left: 14rem;
+}
+.reviewsubdiv{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column; 
+    gap: 2rem;
+}
+.personimg{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.personimgdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 4rem;
+    height: 4rem;
+}
+.reviewdetails{
+    display: flex;
+    justify-content: center;
+    align-items:start;
+    flex-direction: column;
+    gap: 0.5rem; 
+
+}
+.reviewclr{
+    color: grey;
+}
+.border3{
+    border: 1px solid grey;
+
+}

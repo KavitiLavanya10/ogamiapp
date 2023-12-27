@@ -1,0 +1,31 @@
+.heading1{
+color: Red;
+font-size: 3rem;
+}
+.form1{
+    width: 25rem;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 4rem;
+    background: linear-gradient(white,rgb(243, 242, 242));
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.regbtn{
+    background-color: blue;
+    color: white;
+    padding: 0.5rem 1rem;
+    width: 8rem;
+}
+input{
+    border: none;
+    outline: none;
+    border: 1px solid grey;
+    padding:0.3 1rem;
+}
